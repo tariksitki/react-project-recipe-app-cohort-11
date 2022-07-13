@@ -1,0 +1,14 @@
+
+projeye baslamadan önce userlardan user store lar gelir.
+müsteri burada isterlerini tek tek bildiriyor. 
+
+styling i user bilmez. bunu proje lideri belirler. hangi projede hangi styling kullanilacak. 
+
+birden cok theme varsa bunlari ayri bir dosyada tutabiliriz. 
+
+user login olmadan bu projede her yere giris yapamiyor 
+
+Bu nedenle privat router kullaniriz 
+
+home.style.jsx  yada homeStyle.jsx 
+
