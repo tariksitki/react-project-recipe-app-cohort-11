@@ -16,3 +16,5 @@ hash router bazi rout lari render a kapatmak icin kullanilir. biraz riskli
 
 Neden AppRouter diye bir component olusturduk. clean code icin. normal de router lar app.js de de yazilabilirdi. ama burasi cok kalabalik olurdu.
 
+asagi dogru gitme capturing yukari dogru bubbling 
+
