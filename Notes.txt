@@ -19,3 +19,6 @@ Neden AppRouter diye bir component olusturduk. clean code icin. normal de router
 asagi dogru gitme capturing yukari dogru bubbling 
 
 Deploy icin render da varmis
+
+.env den daha güvenlisi icin dedicated server kullanmak gerekir.
+
