@@ -1,12 +1,8 @@
-import React from "react";
-import underConst from "../../assets/coding.svg";
 
 const Register = () => {
   return (
-    <div>
-      <img style={{ width: "90%", margin: "4rem 0" }} src={underConst} alt="" />
-    </div>
-  );
-};
+    <div>Register</div>
+  )
+}
 
-export default Register;
+export default Register

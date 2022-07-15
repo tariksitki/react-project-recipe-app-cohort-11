@@ -1,6 +1,3 @@
-# react-project-recipe-app-cohort-11
-In This Repository I have designed a recipe app with react
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
